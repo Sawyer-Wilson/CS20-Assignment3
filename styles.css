@@ -1,0 +1,32 @@
+Song {
+    display: block;
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    font-family: Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+Song:hover {
+    background-color: lightblue;
+}
+
+Title {
+    display: block;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+Artists {
+    display: flex;
+    gap: 20px;
+}
+
+Genres {
+    display: flex;
+    gap: 20px;
+}
+
+YearReleased {
+    display: block;
+}

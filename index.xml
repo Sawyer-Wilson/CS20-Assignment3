@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<SetList>
+    <Song>
+        <Title>Get Back</Title>
+        <Artists>
+            <Artist>The Beatles</Artist>
+            <Artist>Billy Preston</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1969</YearReleased>
+    </Song>
+    <Song>
+        <Title>Let It Be</Title>
+        <Artists>
+            <Artist>The Beatles</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1970</YearReleased>
+    </Song>
+    <Song>
+        <Title>Higher Ground</Title>
+        <Artists>
+            <Artist>Stevie Wonder</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1973</YearReleased>
+    </Song>
+    <Song>
+        <Title>Isn't She Lovely</Title>
+        <Artists>
+            <Artist>Stevie Wonder</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1976</YearReleased>
+    </Song>
+    <Song>
+        <Title>Superstition</Title>
+        <Artists>
+            <Artist>Stevie Wonder</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1972</YearReleased>
+    </Song>
+    <Song>
+        <Title>Rocket Man</Title>
+        <Artists>
+            <Artist>Elton John</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1972</YearReleased>
+    </Song>
+    <Song>
+        <Title>Simple Man</Title>
+        <Artists>
+            <Artist>Lynyrd Skynyrd</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+            <Genre>Southern Rock</Genre>
+        </Genres>
+        <YearReleased>1973</YearReleased>
+    </Song>
+    <Song>
+        <Title>What's Going on</Title>
+        <Artists>
+            <Artist>Marvin Gaye</Artist>
+        </Artists>
+        <Genres>
+            <Genre>70s</Genre>
+        </Genres>
+        <YearReleased>1971</YearReleased>
+    </Song>
+    <Song>
+        <Title>Baila Esta Cumbia</Title>
+        <Artists>
+            <Artist>Selena</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Latin</Genre>
+        </Genres>
+        <YearReleased>1990</YearReleased>
+    </Song>
+    <Song>
+        <Title>Como La Flor</Title>
+        <Artists>
+            <Artist>Selena</Artist>
+        </Artists>
+        <Genres>
+            <Genre>Latin</Genre>
+        </Genres>
+        <YearReleased>1995</YearReleased>
+    </Song>
+</SetList>
